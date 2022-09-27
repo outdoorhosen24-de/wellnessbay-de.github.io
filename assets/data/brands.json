@@ -1,86 +1,58 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "sanotechnik",
+        "name": "Sanotechnik",
+        "slug": "sanotechnik",
+        "productCategory": "Sanotechnik",
+        "localThumb": "/assets/images/hersteller/sanotechnik.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "finntherm",
+        "name": "FinnTherm",
+        "slug": "finntherm",
+        "productCategory": "FinnTherm",
+        "localThumb": "/assets/images/hersteller/finntherm.webp"
     },
     {
-        "key": "sonstige",
-        "name": "Sonstige",
-        "slug": "sonstige",
-        "productCategory": "Sonstige",
-        "localThumb": "/assets/images/hersteller/sonstige.webp"
+        "key": "woodfeeling",
+        "name": "Woodfeeling",
+        "slug": "woodfeeling",
+        "productCategory": "Woodfeeling",
+        "localThumb": "/assets/images/hersteller/woodfeeling.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "emotion",
+        "name": "Emotion",
+        "slug": "emotion",
+        "productCategory": "Emotion",
+        "localThumb": "/assets/images/hersteller/emotion.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "weka",
+        "name": "Weka",
+        "slug": "weka",
+        "productCategory": "Weka",
+        "localThumb": "/assets/images/hersteller/weka.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "ottofond",
+        "name": "Ottofond",
+        "slug": "ottofond",
+        "productCategory": "Ottofond",
+        "localThumb": "/assets/images/hersteller/ottofond.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "duravit",
+        "name": "Duravit",
+        "slug": "duravit",
+        "productCategory": "Duravit",
+        "localThumb": "/assets/images/hersteller/duravit.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "sanitop-wingenroth",
+        "name": "Sanitop-Wingenroth",
+        "slug": "sanitop-wingenroth",
+        "productCategory": "Sanitop-Wingenroth",
+        "localThumb": "/assets/images/hersteller/sanitop-wingenroth.webp"
     }
 ]
