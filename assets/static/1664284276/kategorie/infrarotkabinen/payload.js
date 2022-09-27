@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/infrarotkabinen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sanotechnik-infrarotkabine-calipso-fuer-3-personen-sanotechnik-6045348-1.jpg":"\u002Fassets\u002Fimages\u002Fsanotechnik-infrarotkabine-calipso-fuer-3-personen-sanotechnik-6045348-1.webp"}}],fetch:{},mutations:void 0});
