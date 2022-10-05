@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "wellnessbay.de",
+    "hostname": "https://www.wellnessbay.de/",
+    "email": "wellnessbay.desurrealnetworks.io",
+    "organization": "wellnessbay.de",
+    "logoText": "Wellnessbay.de",
+    "title": "Sauna & Wellness",
+    "subline": "Der Online Shop f\u00fcr Sauna & Wellness",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1375153",
+        "8714354",
+        "6705271",
+        "7486558",
+        "5008628",
+        "8715013"
+    ],
+    "winnerProducts": [
+        "8307878",
+        "1753730",
+        "1753508"
+    ],
+    "featuredCategories": [
+        "Sauna\u00f6fen & Zubeh\u00f6r",
+        "Infrarotkabinen",
+        "Massivholzsaunen & Elementsaunen",
+        "Sauna\u00f6fen & Zubeh\u00f6r",
+        "Saunen",
+        "Massivholzsaunen & Elementsaunen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Sauna & Wellness",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Sauna & Wellness ist ein Shop, der alles rund um die Themen Sauna und Wellness anbietet. Hier finden Sie eine gro\u00dfe Auswahl an Saunen, Wellnessprodukten und Zubeh\u00f6r. Sie k\u00f6nnen sich beraten lassen und die Produkte vor Ort testen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Sauna & Wellness: Die besten Produkte f\u00fcr Ihr Wohlbefinden",
+            "metaDescription": "Sauna & Wellness - alles f\u00fcr Ihr Wohlbefinden. Wir bieten Ihnen eine gro\u00dfe Auswahl an Saunen, Whirlpools, Massageliegen und vielem mehr.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Sauna & Wellness: Die perfekte Kombination f\u00fcr Ihr Wohlbefinden",
+                    "text": "Sauna und Wellness sind zwei der beliebtesten Freizeitaktivit\u00e4ten in Deutschland. Viele Menschen nutzen die Sauna, um sich zu entspannen und vom Alltagsstress zu erholen. Die Wellness-Branche hat in den letzten Jahren einen Boom erlebt und immer mehr Menschen nutzen die verschiedenen Angebote, um sich zu entspannen und neue Kraft zu tanken.\n\nDie Sauna ist eine finnische Erfindung und wurde in den letzten Jahren zu einem beliebten Freizeitangebot in Deutschland. In einer Sauna wird die Luft durch Hitze auf ca. 80-100 Grad Celsius erhitzt. Die hohe Temperatur sorgt f\u00fcr eine intensive Schwei\u00dfbildung, die den K\u00f6rper entschlackt und entgiftet. Die Sauna ist eine ideale M\u00f6glichkeit, um den K\u00f6rper zu entspannen und neue Kraft zu tanken.\n\nWellness ist ein Trend, der in den letzten Jahren immer mehr an Bedeutung gewonnen hat. Wellness ist ein ganzheitliches Konzept, das sowohl die k\u00f6rperliche als auch die seelische Gesundheit f\u00f6rdert. In einem Wellness-Center k\u00f6nnen Sie verschiedene Angebote nutzen, um sich zu entspannen und neue Kraft zu tanken. Zu den beliebtesten Angeboten geh\u00f6ren Massagen, Kosmetikbehandlungen, Sauna und Schwimmbad.\n\nWellness ist die perfekte M\u00f6glichkeit, um dem Alltagsstress zu entfliehen und neue Kraft zu tanken. In einem Wellness-Center k\u00f6nnen Sie sich verw\u00f6hnen lassen und die Seele baumeln lassen. Wellness ist die ideale M\u00f6glichkeit, um sich"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sauna & Wellness Shop",
+            "metaDescription": "Sauna & Wellness Shop - alles f\u00fcr Ihr Wohlbefinden. Sauna, Infrarotkabine, Dampfdusche, Whirlpool, Massage.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sauna & Wellness Hersteller",
+            "metaDescription": "Sauna & Wellness Hersteller - Wir sind ein f\u00fchrender Hersteller von Saunen und Wellnessprodukten. Unsere Produkte sind hochwertig und langlebig.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Sauna & Wellness: $PRODUKT",
+        "defaultMetaDescription": "Sauna & Wellness: $PRODUKT von $HERSTELLER. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Sauna & Wellness: $KATEGORIE",
+        "defaultMetaDescription": "Sauna & Wellness: $KATEGORIE f\u00fcr die beste Auswahl an Saunen und Wellnessprodukten. Jetzt online bestellen bei $SHOPNAME!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Sauna & Wellness von $HERSTELLER \u2013 f\u00fcr ein entspanntes und gesundes Leben. Wir bieten Ihnen eine gro\u00dfe Auswahl an Saunen, Infrarotkabinen und Zubeh\u00f6r.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Sauna & Wellness",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Sauna & Wellness Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Sauna & Wellness Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
