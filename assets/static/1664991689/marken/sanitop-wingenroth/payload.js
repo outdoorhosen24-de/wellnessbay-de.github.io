@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sanitop-wingenroth", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sanitop-wingenroth-whirlpool-steril-desinfektionsmittel-1-l-sanitop-wingenroth-1375153-1.jpg":"\u002Fassets\u002Fimages\u002Fsanitop-wingenroth-whirlpool-steril-desinfektionsmittel-1-l-sanitop-wingenroth-1375153-1.webp"}}],fetch:{},mutations:void 0});
