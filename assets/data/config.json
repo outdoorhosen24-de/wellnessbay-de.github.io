@@ -51,12 +51,15 @@
             "title": "Sauna & Wellness: Die besten Produkte für Ihr Wohlbefinden",
             "metaDescription": "Sauna & Wellness - alles für Ihr Wohlbefinden. Wir bieten Ihnen eine große Auswahl an Saunen, Whirlpools, Massageliegen und vielem mehr.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Sauna & Wellness: Die perfekte Kombination für Ihr Wohlbefinden",
-                    "text": "Sauna und Wellness sind zwei der beliebtesten Freizeitaktivitäten in Deutschland. Viele Menschen nutzen die Sauna, um sich zu entspannen und vom Alltagsstress zu erholen. Die Wellness-Branche hat in den letzten Jahren einen Boom erlebt und immer mehr Menschen nutzen die verschiedenen Angebote, um sich zu entspannen und neue Kraft zu tanken.\n\nDie Sauna ist eine finnische Erfindung und wurde in den letzten Jahren zu einem beliebten Freizeitangebot in Deutschland. In einer Sauna wird die Luft durch Hitze auf ca. 80-100 Grad Celsius erhitzt. Die hohe Temperatur sorgt für eine intensive Schweißbildung, die den Körper entschlackt und entgiftet. Die Sauna ist eine ideale Möglichkeit, um den Körper zu entspannen und neue Kraft zu tanken.\n\nWellness ist ein Trend, der in den letzten Jahren immer mehr an Bedeutung gewonnen hat. Wellness ist ein ganzheitliches Konzept, das sowohl die körperliche als auch die seelische Gesundheit fördert. In einem Wellness-Center können Sie verschiedene Angebote nutzen, um sich zu entspannen und neue Kraft zu tanken. Zu den beliebtesten Angeboten gehören Massagen, Kosmetikbehandlungen, Sauna und Schwimmbad.\n\nWellness ist die perfekte Möglichkeit, um dem Alltagsstress zu entfliehen und neue Kraft zu tanken. In einem Wellness-Center können Sie sich verwöhnen lassen und die Seele baumeln lassen. Wellness ist die ideale Möglichkeit, um sich"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Sauna & Wellness: Die perfekte Kombination für Ihr Wohlbefinden",
+                        "text": "Sauna und Wellness sind zwei der beliebtesten Freizeitaktivitäten in Deutschland. Viele Menschen nutzen die Sauna, um sich zu entspannen und vom Alltagsstress zu erholen. Die Wellness-Branche hat in den letzten Jahren einen Boom erlebt und immer mehr Menschen nutzen die verschiedenen Angebote, um sich zu entspannen und neue Kraft zu tanken.\n\nDie Sauna ist eine finnische Erfindung und wurde in den letzten Jahren zu einem beliebten Freizeitangebot in Deutschland. In einer Sauna wird die Luft durch Hitze auf ca. 80-100 Grad Celsius erhitzt. Die hohe Temperatur sorgt für eine intensive Schweißbildung, die den Körper entschlackt und entgiftet. Die Sauna ist eine ideale Möglichkeit, um den Körper zu entspannen und neue Kraft zu tanken.\n\nWellness ist ein Trend, der in den letzten Jahren immer mehr an Bedeutung gewonnen hat. Wellness ist ein ganzheitliches Konzept, das sowohl die körperliche als auch die seelische Gesundheit fördert. In einem Wellness-Center können Sie verschiedene Angebote nutzen, um sich zu entspannen und neue Kraft zu tanken. Zu den beliebtesten Angeboten gehören Massagen, Kosmetikbehandlungen, Sauna und Schwimmbad.\n\nWellness ist die perfekte Möglichkeit, um dem Alltagsstress zu entfliehen und neue Kraft zu tanken. In einem Wellness-Center können Sie sich verwöhnen lassen und die Seele baumeln lassen. Wellness ist die ideale Möglichkeit, um sich"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Sauna & Wellness Shop",
