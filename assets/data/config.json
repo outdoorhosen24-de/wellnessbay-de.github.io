@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "wellnessbay.de",
     "hostname": "https://www.wellnessbay.de/",
     "email": "wellnessbay.de@surrealnetworks.io",
     "organization": "wellnessbay.de",
     "logoText": "Wellnessbay.de",
     "title": "Sauna & Wellness",
-    "subline": "Der Online Shop für Sauna & Wellness",
+    "subline": "Entspannung zuhause erleben!",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Sauna & Wellness",
-        "featureText": "Die Sauna & Wellness ist ein Shop, der alles rund um die Themen Sauna und Wellness anbietet. Hier finden Sie eine große Auswahl an Saunen, Wellnessprodukten und Zubehör. Sie können sich beraten lassen und die Produkte vor Ort testen.",
+        "featureText": "Bei uns finden Sie alles, was Sie für Ihre persönliche Wohlfühloase benötigen. Klicken Sie sich durch unser umfangreiches Angebot verschiedener Saunen und Whirlpools sowie passendem Wellnesszubehör. Wir bieten Ihnen qualitativ hochwertige und langlebige Produkte, sodass der Entspannung im eigenen Zuhause nichts mehr im Wege steht! ",
         "index": {
-            "title": "Sauna & Wellness: Die besten Produkte für Ihr Wohlbefinden",
-            "metaDescription": "Sauna & Wellness - alles für Ihr Wohlbefinden. Wir bieten Ihnen eine große Auswahl an Saunen, Whirlpools, Massageliegen und vielem mehr.",
+            "title": "Sauna & Wellness: die Wohlfühloase nach Hause holen! ",
+            "metaDescription": "Sauna & Wellness - entdecken Sie unser Sortiment an Massivholzsaunen, Whirlpools, Saunaöfen, passendem Wellnesszubehör uvm. Schnell. Zuverlässig. Langlebig.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Sauna & Wellness Shop",
-            "metaDescription": "Sauna & Wellness Shop - alles für Ihr Wohlbefinden. Sauna, Infrarotkabine, Dampfdusche, Whirlpool, Massage.",
+            "title": "Sauna & Wellness Shop: Riesige Auswahl in top Qualität!",
+            "metaDescription": "In unserem Shop finden Sie alles zum Thema Entspannung: Saunen | Saunaöfen | Whirlpools | Wellnesszubehör | Per Mausklick zu Ihnen nach Hause!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Sauna & Wellness Hersteller",
-            "metaDescription": "Sauna & Wellness Hersteller - Wir sind ein führender Hersteller von Saunen und Wellnessprodukten. Unsere Produkte sind hochwertig und langlebig.",
+            "metaDescription": "Entdecken Sie unser vielfältiges Angebot ausgewählter Markenanbieter wie Duravit, Emotion, FinnTherm, Sanotechnik, Ottofond und mehr!  ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
         "defaultTitle": "Sauna & Wellness: $PRODUKT",
-        "defaultMetaDescription": "Sauna & Wellness: $PRODUKT von $HERSTELLER. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Immer eine gute Wahl! Ganz einfach und bequem online bestellen in $KATEGORIE. Bei uns finden Sie, wonach Sie gesucht haben.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -90,7 +90,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Sauna & Wellness: $KATEGORIE",
-        "defaultMetaDescription": "Sauna & Wellness: $KATEGORIE für die beste Auswahl an Saunen und Wellnessprodukten. Jetzt online bestellen bei $SHOPNAME!",
+        "defaultMetaDescription": "Hochwertige Produkte für Sauna und Wellness. Bestellen Sie $KATEGORIE zu günstigen Preisen direkt nach Hause. Schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Sauna & Wellness von $HERSTELLER – für ein entspanntes und gesundes Leben. Wir bieten Ihnen eine große Auswahl an Saunen, Infrarotkabinen und Zubehör.",
+        "defaultTitle": "Sauna & Wellness von $HERSTELLER: bei uns erhältlich",
+        "defaultMetaDescription": "Sauna & Wellness von $HERSTELLER – für Entspannung und Gesundheit. Wir bieten Ihnen erstklassige Produkte in unserem Shop.",
         "defaultRobots": "index, follow",
         "brands": [
             {
