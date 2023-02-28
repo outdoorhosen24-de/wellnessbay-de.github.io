@@ -52,11 +52,31 @@
             "metaDescription": "Sauna & Wellness - entdecken Sie unser Sortiment an Massivholzsaunen, Whirlpools, Saunaöfen, passendem Wellnesszubehör uvm. Schnell. Zuverlässig. Langlebig.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Sauna & Wellness: Die perfekte Kombination für Ihr Wohlbefinden",
-                        "text": "Sauna und Wellness sind zwei der beliebtesten Freizeitaktivitäten in Deutschland. Viele Menschen nutzen die Sauna, um sich zu entspannen und vom Alltagsstress zu erholen. Die Wellness-Branche hat in den letzten Jahren einen Boom erlebt und immer mehr Menschen nutzen die verschiedenen Angebote, um sich zu entspannen und neue Kraft zu tanken.\n\nDie Sauna ist eine finnische Erfindung und wurde in den letzten Jahren zu einem beliebten Freizeitangebot in Deutschland. In einer Sauna wird die Luft durch Hitze auf ca. 80-100 Grad Celsius erhitzt. Die hohe Temperatur sorgt für eine intensive Schweißbildung, die den Körper entschlackt und entgiftet. Die Sauna ist eine ideale Möglichkeit, um den Körper zu entspannen und neue Kraft zu tanken.\n\nWellness ist ein Trend, der in den letzten Jahren immer mehr an Bedeutung gewonnen hat. Wellness ist ein ganzheitliches Konzept, das sowohl die körperliche als auch die seelische Gesundheit fördert. In einem Wellness-Center können Sie verschiedene Angebote nutzen, um sich zu entspannen und neue Kraft zu tanken. Zu den beliebtesten Angeboten gehören Massagen, Kosmetikbehandlungen, Sauna und Schwimmbad.\n\nWellness ist die perfekte Möglichkeit, um dem Alltagsstress zu entfliehen und neue Kraft zu tanken. In einem Wellness-Center können Sie sich verwöhnen lassen und die Seele baumeln lassen. Wellness ist die ideale Möglichkeit, um sich"
+                        "title": "Willkommen bei Wellnessbay - Ihrem Online-Shop für Sauna & Wellness",
+                        "text": "Herzlich willkommen bei Wellnessbay, Ihrem Online-Shop für hochwertige Sauna- und Wellnessprodukte. Wir bieten Ihnen eine große Auswahl an Infrarotkabinen, Saunen, Massivholzsaunen & Elementsaunen, Whirlpools sowie Saunaöfen & Zubehör, um Ihren Wellnessbereich zu Hause zu kreieren. Wir sind stolz darauf, Ihnen Produkte von höchster Qualität zu einem fairen Preis anzubieten, und stehen Ihnen bei jedem Schritt des Einkaufsprozesses zur Verfügung. Unser Ziel ist es, Ihnen ein entspanntes und angenehmes Einkaufserlebnis zu bieten, damit Sie sich rundum wohl fühlen. Stöbern Sie durch unsere Produktkategorien und entdecken Sie die Vielfalt an Möglichkeiten, Ihren Wellnessbereich zu gestalten. Wir sind sicher, dass Sie das perfekte Produkt für Ihre Bedürfnisse finden werden. Bestellen Sie noch heute bei Wellnessbay und genießen Sie den ultimativen Wellness-Luxus zu Hause."
+                    },
+                    {
+                        "title": "Infrarotkabinen",
+                        "text": "Erleben Sie das Wohlgefühl von Wärme und Entspannung in den eigenen vier Wänden mit einer Infrarotkabine von Wellnessbay. Unsere <a href=\"/kategorie/infrarotkabinen/\" title=\"Infrarotkabinen\">Infrarotkabinen</a> sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärmeverteilung für ein tiefes Entspannungserlebnis. Entdecken Sie jetzt unser breites Sortiment an Infrarotkabinen und finden Sie die perfekte Kabine für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Saunen",
+                        "text": "Erleben Sie das traditionelle Saunaerlebnis in den eigenen vier Wänden mit einer Sauna von Wellnessbay. Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/saunen/\" title=\"Saunen\">Saunen</a> in verschiedenen Größen und Ausführungen, damit Sie die perfekte Sauna für Ihr Zuhause finden. Unsere Saunen sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärme und Entspannung für ein unvergessliches Saunaerlebnis."
+                    },
+                    {
+                        "title": "Massivholzsaunen & Elementsaunen",
+                        "text": "Erleben Sie das besondere Saunaerlebnis mit einer Massivholzsauna oder Elementsauna von Wellnessbay. Unsere Saunen sind aus hochwertigen Massivhölzern gefertigt und bieten eine warme und gemütliche Atmosphäre für ein unvergessliches Saunaerlebnis. Entdecken Sie jetzt unser breites Sortiment an Massivholzsaunen und Elementsaunen und finden Sie die perfekte Sauna für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Whirlpools",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/whirlpools/\" title=\"Whirlpools\">Whirlpools</a> finden Sie hochwertige und luxuriöse Badewannen mit Whirlpool-Funktion. Verwöhnen Sie sich nach einem anstrengenden Tag mit einer Massage durch die integrierten Wasserdüsen. Unsere Whirlpools sind in verschiedenen Größen und Ausführungen erhältlich, um Ihren Anforderungen gerecht zu werden. Stöbern Sie durch unsere Produkte und finden Sie den perfekten Whirlpool für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Saunaöfen & Zubehör",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/saunaoefen-zubehoer/\" title=\"Saunaöfen & Zubehör\">Saunaöfen & Zubehör</a> finden Sie alles, was Sie für Ihre Sauna benötigen. Wir bieten Ihnen eine große Auswahl an Saunaöfen in verschiedenen Größen und Leistungen, um Ihre Sauna auf die perfekte Temperatur zu bringen. Darüber hinaus haben wir auch eine Vielzahl an Zubehör wie Saunasteine, Thermometer und Hygrometer, um Ihre Saunaerfahrung zu verbessern. Schauen Sie sich um und finden Sie alles, was Sie für Ihre Sauna benötigen."
                     }
                 ]
             }
