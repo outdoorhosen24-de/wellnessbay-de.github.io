@@ -1,184 +1,187 @@
 {
-    "configIsReady": true,
-    "domain": "wellnessbay.de",
-    "hostname": "https://www.wellnessbay.de/",
-    "email": "wellnessbay.de@surrealnetworks.io",
-    "organization": "wellnessbay.de",
-    "logoText": "Wellnessbay.de",
-    "title": "Sauna & Wellness",
-    "subline": "Entspannung zuhause erleben!",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "1375153",
-        "8714354",
-        "6705271",
-        "7486558",
-        "5008628",
-        "8715013"
-    ],
-    "winnerProducts": [
-        "8307878",
-        "1753730",
-        "1753508"
-    ],
-    "featuredCategories": [
-        "Saunaöfen & Zubehör",
-        "Infrarotkabinen",
-        "Massivholzsaunen & Elementsaunen",
-        "Saunaöfen & Zubehör",
-        "Saunen",
-        "Massivholzsaunen & Elementsaunen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Sauna & Wellness",
-        "featureText": "Bei uns finden Sie alles, was Sie für Ihre persönliche Wohlfühloase benötigen. Klicken Sie sich durch unser umfangreiches Angebot verschiedener Saunen und Whirlpools sowie passendem Wellnesszubehör. Wir bieten Ihnen qualitativ hochwertige und langlebige Produkte, sodass der Entspannung im eigenen Zuhause nichts mehr im Wege steht! ",
-        "index": {
-            "title": "Sauna & Wellness: die Wohlfühloase nach Hause holen! ",
-            "metaDescription": "Sauna & Wellness - entdecken Sie unser Sortiment an Massivholzsaunen, Whirlpools, Saunaöfen, passendem Wellnesszubehör uvm. Schnell. Zuverlässig. Langlebig.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Wellnessbay - Ihrem Online-Shop für Sauna & Wellness",
-                        "text": "Herzlich willkommen bei Wellnessbay, Ihrem Online-Shop für hochwertige Sauna- und Wellnessprodukte. Wir bieten Ihnen eine große Auswahl an Infrarotkabinen, Saunen, Massivholzsaunen & Elementsaunen, Whirlpools sowie Saunaöfen & Zubehör, um Ihren Wellnessbereich zu Hause zu kreieren. Wir sind stolz darauf, Ihnen Produkte von höchster Qualität zu einem fairen Preis anzubieten, und stehen Ihnen bei jedem Schritt des Einkaufsprozesses zur Verfügung. Unser Ziel ist es, Ihnen ein entspanntes und angenehmes Einkaufserlebnis zu bieten, damit Sie sich rundum wohl fühlen. Stöbern Sie durch unsere Produktkategorien und entdecken Sie die Vielfalt an Möglichkeiten, Ihren Wellnessbereich zu gestalten. Wir sind sicher, dass Sie das perfekte Produkt für Ihre Bedürfnisse finden werden. Bestellen Sie noch heute bei Wellnessbay und genießen Sie den ultimativen Wellness-Luxus zu Hause."
-                    },
-                    {
-                        "title": "Infrarotkabinen",
-                        "text": "Erleben Sie das Wohlgefühl von Wärme und Entspannung in den eigenen vier Wänden mit einer Infrarotkabine von Wellnessbay. Unsere <a href=\"/kategorie/infrarotkabinen/\" title=\"Infrarotkabinen\">Infrarotkabinen</a> sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärmeverteilung für ein tiefes Entspannungserlebnis. Entdecken Sie jetzt unser breites Sortiment an Infrarotkabinen und finden Sie die perfekte Kabine für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Saunen",
-                        "text": "Erleben Sie das traditionelle Saunaerlebnis in den eigenen vier Wänden mit einer Sauna von Wellnessbay. Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/saunen/\" title=\"Saunen\">Saunen</a> in verschiedenen Größen und Ausführungen, damit Sie die perfekte Sauna für Ihr Zuhause finden. Unsere Saunen sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärme und Entspannung für ein unvergessliches Saunaerlebnis."
-                    },
-                    {
-                        "title": "Massivholzsaunen & Elementsaunen",
-                        "text": "Erleben Sie das besondere Saunaerlebnis mit einer Massivholzsauna oder Elementsauna von Wellnessbay. Unsere Saunen sind aus hochwertigen Massivhölzern gefertigt und bieten eine warme und gemütliche Atmosphäre für ein unvergessliches Saunaerlebnis. Entdecken Sie jetzt unser breites Sortiment an Massivholzsaunen und Elementsaunen und finden Sie die perfekte Sauna für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Whirlpools",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/whirlpools/\" title=\"Whirlpools\">Whirlpools</a> finden Sie hochwertige und luxuriöse Badewannen mit Whirlpool-Funktion. Verwöhnen Sie sich nach einem anstrengenden Tag mit einer Massage durch die integrierten Wasserdüsen. Unsere Whirlpools sind in verschiedenen Größen und Ausführungen erhältlich, um Ihren Anforderungen gerecht zu werden. Stöbern Sie durch unsere Produkte und finden Sie den perfekten Whirlpool für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Saunaöfen & Zubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/saunaoefen-zubehoer/\" title=\"Saunaöfen & Zubehör\">Saunaöfen & Zubehör</a> finden Sie alles, was Sie für Ihre Sauna benötigen. Wir bieten Ihnen eine große Auswahl an Saunaöfen in verschiedenen Größen und Leistungen, um Ihre Sauna auf die perfekte Temperatur zu bringen. Darüber hinaus haben wir auch eine Vielzahl an Zubehör wie Saunasteine, Thermometer und Hygrometer, um Ihre Saunaerfahrung zu verbessern. Schauen Sie sich um und finden Sie alles, was Sie für Ihre Sauna benötigen."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Sauna & Wellness Shop: Riesige Auswahl in top Qualität!",
-            "metaDescription": "In unserem Shop finden Sie alles zum Thema Entspannung: Saunen | Saunaöfen | Whirlpools | Wellnesszubehör | Per Mausklick zu Ihnen nach Hause!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Sauna & Wellness Hersteller",
-            "metaDescription": "Entdecken Sie unser vielfältiges Angebot ausgewählter Markenanbieter wie Duravit, Emotion, FinnTherm, Sanotechnik, Ottofond und mehr!  ",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "Sauna & Wellness: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Immer eine gute Wahl! Ganz einfach und bequem online bestellen in $KATEGORIE. Bei uns finden Sie, wonach Sie gesucht haben.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "wellnessbay.de",
+  "hostname": "https://www.wellnessbay.de/",
+  "email": "wellnessbay.de@surrealnetworks.io",
+  "organization": "wellnessbay.de",
+  "logoText": "Wellnessbay.de",
+  "title": "Sauna & Wellness",
+  "subline": "Entspannung zuhause erleben!",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "1375153",
+    "8714354",
+    "6705271",
+    "7486558",
+    "5008628",
+    "8715013"
+  ],
+  "winnerProducts": [
+    "8307878",
+    "1753730",
+    "1753508"
+  ],
+  "featuredCategories": [
+    "Sauna\u00f6fen & Zubeh\u00f6r",
+    "Infrarotkabinen",
+    "Massivholzsaunen & Elementsaunen",
+    "Sauna\u00f6fen & Zubeh\u00f6r",
+    "Saunen",
+    "Massivholzsaunen & Elementsaunen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Sauna & Wellness",
+    "featureText": "Bei uns finden Sie alles, was Sie f\u00fcr Ihre pers\u00f6nliche Wohlf\u00fchloase ben\u00f6tigen. Klicken Sie sich durch unser umfangreiches Angebot verschiedener Saunen und Whirlpools sowie passendem Wellnesszubeh\u00f6r. Wir bieten Ihnen qualitativ hochwertige und langlebige Produkte, sodass der Entspannung im eigenen Zuhause nichts mehr im Wege steht! ",
+    "index": {
+      "title": "Sauna & Wellness: die Wohlf\u00fchloase nach Hause holen! ",
+      "metaDescription": "Sauna & Wellness - entdecken Sie unser Sortiment an Massivholzsaunen, Whirlpools, Sauna\u00f6fen, passendem Wellnesszubeh\u00f6r uvm. Schnell. Zuverl\u00e4ssig. Langlebig.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Wellnessbay - Ihrem Online-Shop f\u00fcr Sauna & Wellness",
+            "text": "Herzlich willkommen bei Wellnessbay, Ihrem Online-Shop f\u00fcr hochwertige Sauna- und Wellnessprodukte. Wir bieten Ihnen eine gro\u00dfe Auswahl an Infrarotkabinen, Saunen, Massivholzsaunen & Elementsaunen, Whirlpools sowie Sauna\u00f6fen & Zubeh\u00f6r, um Ihren Wellnessbereich zu Hause zu kreieren. Wir sind stolz darauf, Ihnen Produkte von h\u00f6chster Qualit\u00e4t zu einem fairen Preis anzubieten, und stehen Ihnen bei jedem Schritt des Einkaufsprozesses zur Verf\u00fcgung. Unser Ziel ist es, Ihnen ein entspanntes und angenehmes Einkaufserlebnis zu bieten, damit Sie sich rundum wohl f\u00fchlen. St\u00f6bern Sie durch unsere Produktkategorien und entdecken Sie die Vielfalt an M\u00f6glichkeiten, Ihren Wellnessbereich zu gestalten. Wir sind sicher, dass Sie das perfekte Produkt f\u00fcr Ihre Bed\u00fcrfnisse finden werden. Bestellen Sie noch heute bei Wellnessbay und genie\u00dfen Sie den ultimativen Wellness-Luxus zu Hause."
+          },
+          {
+            "title": "Infrarotkabinen",
+            "text": "Erleben Sie das Wohlgef\u00fchl von W\u00e4rme und Entspannung in den eigenen vier W\u00e4nden mit einer Infrarotkabine von Wellnessbay. Unsere <a href=\"/kategorie/infrarotkabinen/\" title=\"Infrarotkabinen\">Infrarotkabinen</a> sind aus hochwertigen Materialien gefertigt und bieten eine optimale W\u00e4rmeverteilung f\u00fcr ein tiefes Entspannungserlebnis. Entdecken Sie jetzt unser breites Sortiment an Infrarotkabinen und finden Sie die perfekte Kabine f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Saunen",
+            "text": "Erleben Sie das traditionelle Saunaerlebnis in den eigenen vier W\u00e4nden mit einer Sauna von Wellnessbay. Wir bieten Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/saunen/\" title=\"Saunen\">Saunen</a> in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen, damit Sie die perfekte Sauna f\u00fcr Ihr Zuhause finden. Unsere Saunen sind aus hochwertigen Materialien gefertigt und bieten eine optimale W\u00e4rme und Entspannung f\u00fcr ein unvergessliches Saunaerlebnis."
+          },
+          {
+            "title": "Massivholzsaunen & Elementsaunen",
+            "text": "Erleben Sie das besondere Saunaerlebnis mit einer Massivholzsauna oder Elementsauna von Wellnessbay. Unsere Saunen sind aus hochwertigen Massivh\u00f6lzern gefertigt und bieten eine warme und gem\u00fctliche Atmosph\u00e4re f\u00fcr ein unvergessliches Saunaerlebnis. Entdecken Sie jetzt unser breites Sortiment an Massivholzsaunen und Elementsaunen und finden Sie die perfekte Sauna f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Whirlpools",
+            "text": "In unserer Kategorie <a href=\"/kategorie/whirlpools/\" title=\"Whirlpools\">Whirlpools</a> finden Sie hochwertige und luxuri\u00f6se Badewannen mit Whirlpool-Funktion. Verw\u00f6hnen Sie sich nach einem anstrengenden Tag mit einer Massage durch die integrierten Wasserd\u00fcsen. Unsere Whirlpools sind in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen erh\u00e4ltlich, um Ihren Anforderungen gerecht zu werden. St\u00f6bern Sie durch unsere Produkte und finden Sie den perfekten Whirlpool f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Sauna\u00f6fen & Zubeh\u00f6r",
+            "text": "In unserer Kategorie <a href=\"/kategorie/saunaoefen-zubehoer/\" title=\"Sauna\u00f6fen & Zubeh\u00f6r\">Sauna\u00f6fen & Zubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr Ihre Sauna ben\u00f6tigen. Wir bieten Ihnen eine gro\u00dfe Auswahl an Sauna\u00f6fen in verschiedenen Gr\u00f6\u00dfen und Leistungen, um Ihre Sauna auf die perfekte Temperatur zu bringen. Dar\u00fcber hinaus haben wir auch eine Vielzahl an Zubeh\u00f6r wie Saunasteine, Thermometer und Hygrometer, um Ihre Saunaerfahrung zu verbessern. Schauen Sie sich um und finden Sie alles, was Sie f\u00fcr Ihre Sauna ben\u00f6tigen."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "Sauna & Wellness: $KATEGORIE",
-        "defaultMetaDescription": "Hochwertige Produkte für Sauna und Wellness. Bestellen Sie $KATEGORIE zu günstigen Preisen direkt nach Hause. Schnelle Lieferung.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Sauna & Wellness Shop: Riesige Auswahl in top Qualit\u00e4t!",
+      "metaDescription": "In unserem Shop finden Sie alles zum Thema Entspannung: Saunen | Sauna\u00f6fen | Whirlpools | Wellnesszubeh\u00f6r | Per Mausklick zu Ihnen nach Hause!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Sauna & Wellness von $HERSTELLER: bei uns erhältlich",
-        "defaultMetaDescription": "Sauna & Wellness von $HERSTELLER – für Entspannung und Gesundheit. Wir bieten Ihnen erstklassige Produkte in unserem Shop.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Sauna & Wellness",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Sauna & Wellness Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Sauna & Wellness Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Sauna & Wellness Hersteller",
+      "metaDescription": "Entdecken Sie unser vielf\u00e4ltiges Angebot ausgew\u00e4hlter Markenanbieter wie Duravit, Emotion, FinnTherm, Sanotechnik, Ottofond und mehr!  ",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "Sauna & Wellness: $PRODUKT",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Immer eine gute Wahl! Ganz einfach und bequem online bestellen in $KATEGORIE. Bei uns finden Sie, wonach Sie gesucht haben.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "Sauna & Wellness: $KATEGORIE",
+    "defaultMetaDescription": "Hochwertige Produkte f\u00fcr Sauna und Wellness. Bestellen Sie $KATEGORIE zu g\u00fcnstigen Preisen direkt nach Hause. Schnelle Lieferung.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Sauna & Wellness von $HERSTELLER: bei uns erh\u00e4ltlich",
+    "defaultMetaDescription": "Sauna & Wellness von $HERSTELLER \u2013 f\u00fcr Entspannung und Gesundheit. Wir bieten Ihnen erstklassige Produkte in unserem Shop.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Sauna & Wellness",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Sauna & Wellness Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Sauna & Wellness Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
