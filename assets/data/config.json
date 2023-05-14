@@ -1,220 +1,227 @@
 {
-  "configIsReady": true,
-  "domain": "wellnessbay.de",
-  "hostname": "https://www.wellnessbay.de/",
-  "email": "wellnessbay.de@surrealnetworks.io",
-  "organization": "wellnessbay.de",
-  "logoText": "Wellnessbay.de",
-  "title": "Sauna & Wellness",
-  "subline": "Entspannung zuhause erleben!",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "1375153",
-    "8714354",
-    "6705271",
-    "7486558",
-    "5008628",
-    "8715013"
-  ],
-  "winnerProducts": [
-    "8307878",
-    "1753730",
-    "1753508"
-  ],
-  "featuredCategories": [
-    "Saunaöfen & Zubehör",
-    "Infrarotkabinen",
-    "Massivholzsaunen & Elementsaunen",
-    "Saunaöfen & Zubehör",
-    "Saunen",
-    "Massivholzsaunen & Elementsaunen"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Sauna & Wellness",
-    "featureText": "Bei uns finden Sie alles, was Sie für Ihre persönliche Wohlfühloase benötigen. Klicken Sie sich durch unser umfangreiches Angebot verschiedener Saunen und Whirlpools sowie passendem Wellnesszubehör. Wir bieten Ihnen qualitativ hochwertige und langlebige Produkte, sodass der Entspannung im eigenen Zuhause nichts mehr im Wege steht! ",
-    "index": {
-      "title": "Sauna & Wellness: die Wohlfühloase nach Hause holen! ",
-      "metaDescription": "Sauna & Wellness - entdecken Sie unser Sortiment an Massivholzsaunen, Whirlpools, Saunaöfen, passendem Wellnesszubehör uvm. Schnell. Zuverlässig. Langlebig.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Wellnessbay - Ihrem Online-Shop für Sauna & Wellness",
-            "text": "Herzlich willkommen bei Wellnessbay, Ihrem Online-Shop für hochwertige Sauna- und Wellnessprodukte. Wir bieten Ihnen eine große Auswahl an Infrarotkabinen, Saunen, Massivholzsaunen & Elementsaunen, Whirlpools sowie Saunaöfen & Zubehör, um Ihren Wellnessbereich zu Hause zu kreieren. Wir sind stolz darauf, Ihnen Produkte von höchster Qualität zu einem fairen Preis anzubieten, und stehen Ihnen bei jedem Schritt des Einkaufsprozesses zur Verfügung. Unser Ziel ist es, Ihnen ein entspanntes und angenehmes Einkaufserlebnis zu bieten, damit Sie sich rundum wohl fühlen. Stöbern Sie durch unsere Produktkategorien und entdecken Sie die Vielfalt an Möglichkeiten, Ihren Wellnessbereich zu gestalten. Wir sind sicher, dass Sie das perfekte Produkt für Ihre Bedürfnisse finden werden. Bestellen Sie noch heute bei Wellnessbay und genießen Sie den ultimativen Wellness-Luxus zu Hause."
-          },
-          {
-            "title": "Infrarotkabinen",
-            "text": "Erleben Sie das Wohlgefühl von Wärme und Entspannung in den eigenen vier Wänden mit einer Infrarotkabine von Wellnessbay. Unsere <a href=\"/kategorie/infrarotkabinen/\" title=\"Infrarotkabinen\">Infrarotkabinen</a> sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärmeverteilung für ein tiefes Entspannungserlebnis. Entdecken Sie jetzt unser breites Sortiment an Infrarotkabinen und finden Sie die perfekte Kabine für Ihr Zuhause."
-          },
-          {
-            "title": "Saunen",
-            "text": "Erleben Sie das traditionelle Saunaerlebnis in den eigenen vier Wänden mit einer Sauna von Wellnessbay. Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/saunen/\" title=\"Saunen\">Saunen</a> in verschiedenen Größen und Ausführungen, damit Sie die perfekte Sauna für Ihr Zuhause finden. Unsere Saunen sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärme und Entspannung für ein unvergessliches Saunaerlebnis."
-          },
-          {
-            "title": "Massivholzsaunen & Elementsaunen",
-            "text": "Erleben Sie das besondere Saunaerlebnis mit einer Massivholzsauna oder Elementsauna von Wellnessbay. Unsere Saunen sind aus hochwertigen Massivhölzern gefertigt und bieten eine warme und gemütliche Atmosphäre für ein unvergessliches Saunaerlebnis. Entdecken Sie jetzt unser breites Sortiment an Massivholzsaunen und Elementsaunen und finden Sie die perfekte Sauna für Ihr Zuhause."
-          },
-          {
-            "title": "Whirlpools",
-            "text": "In unserer Kategorie <a href=\"/kategorie/whirlpools/\" title=\"Whirlpools\">Whirlpools</a> finden Sie hochwertige und luxuriöse Badewannen mit Whirlpool-Funktion. Verwöhnen Sie sich nach einem anstrengenden Tag mit einer Massage durch die integrierten Wasserdüsen. Unsere Whirlpools sind in verschiedenen Größen und Ausführungen erhältlich, um Ihren Anforderungen gerecht zu werden. Stöbern Sie durch unsere Produkte und finden Sie den perfekten Whirlpool für Ihr Zuhause."
-          },
-          {
-            "title": "Saunaöfen & Zubehör",
-            "text": "In unserer Kategorie <a href=\"/kategorie/saunaoefen-zubehoer/\" title=\"Saunaöfen & Zubehör\">Saunaöfen & Zubehör</a> finden Sie alles, was Sie für Ihre Sauna benötigen. Wir bieten Ihnen eine große Auswahl an Saunaöfen in verschiedenen Größen und Leistungen, um Ihre Sauna auf die perfekte Temperatur zu bringen. Darüber hinaus haben wir auch eine Vielzahl an Zubehör wie Saunasteine, Thermometer und Hygrometer, um Ihre Saunaerfahrung zu verbessern. Schauen Sie sich um und finden Sie alles, was Sie für Ihre Sauna benötigen."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "wellnessbay.de",
+    "hostname": "https://www.wellnessbay.de/",
+    "email": "wellnessbay.de@surrealnetworks.io",
+    "organization": "wellnessbay.de",
+    "logoText": "Wellnessbay.de",
+    "title": "Sauna & Wellness",
+    "subline": "Entspannung zuhause erleben!",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "1375153",
+        "8714354",
+        "6705271",
+        "7486558",
+        "5008628",
+        "8715013"
+    ],
+    "winnerProducts": [
+        "8307878",
+        "1753730",
+        "1753508"
+    ],
+    "featuredCategories": [
+        "Saunaöfen & Zubehör",
+        "Infrarotkabinen",
+        "Massivholzsaunen & Elementsaunen",
+        "Saunaöfen & Zubehör",
+        "Saunen",
+        "Massivholzsaunen & Elementsaunen"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Sauna & Wellness",
+        "featureText": "Bei uns finden Sie alles, was Sie für Ihre persönliche Wohlfühloase benötigen. Klicken Sie sich durch unser umfangreiches Angebot verschiedener Saunen und Whirlpools sowie passendem Wellnesszubehör. Wir bieten Ihnen qualitativ hochwertige und langlebige Produkte, sodass der Entspannung im eigenen Zuhause nichts mehr im Wege steht! ",
+        "index": {
+            "title": "Sauna & Wellness: die Wohlfühloase nach Hause holen! ",
+            "metaDescription": "Sauna & Wellness - entdecken Sie unser Sortiment an Massivholzsaunen, Whirlpools, Saunaöfen, passendem Wellnesszubehör uvm. Schnell. Zuverlässig. Langlebig.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Wellnessbay - Ihrem Online-Shop für Sauna & Wellness",
+                        "text": "Herzlich willkommen bei Wellnessbay, Ihrem Online-Shop für hochwertige Sauna- und Wellnessprodukte. Wir bieten Ihnen eine große Auswahl an Infrarotkabinen, Saunen, Massivholzsaunen & Elementsaunen, Whirlpools sowie Saunaöfen & Zubehör, um Ihren Wellnessbereich zu Hause zu kreieren. Wir sind stolz darauf, Ihnen Produkte von höchster Qualität zu einem fairen Preis anzubieten, und stehen Ihnen bei jedem Schritt des Einkaufsprozesses zur Verfügung. Unser Ziel ist es, Ihnen ein entspanntes und angenehmes Einkaufserlebnis zu bieten, damit Sie sich rundum wohl fühlen. Stöbern Sie durch unsere Produktkategorien und entdecken Sie die Vielfalt an Möglichkeiten, Ihren Wellnessbereich zu gestalten. Wir sind sicher, dass Sie das perfekte Produkt für Ihre Bedürfnisse finden werden. Bestellen Sie noch heute bei Wellnessbay und genießen Sie den ultimativen Wellness-Luxus zu Hause."
+                    },
+                    {
+                        "title": "Infrarotkabinen",
+                        "text": "Erleben Sie das Wohlgefühl von Wärme und Entspannung in den eigenen vier Wänden mit einer Infrarotkabine von Wellnessbay. Unsere <a href=\"/kategorie/infrarotkabinen/\" title=\"Infrarotkabinen\">Infrarotkabinen</a> sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärmeverteilung für ein tiefes Entspannungserlebnis. Entdecken Sie jetzt unser breites Sortiment an Infrarotkabinen und finden Sie die perfekte Kabine für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Saunen",
+                        "text": "Erleben Sie das traditionelle Saunaerlebnis in den eigenen vier Wänden mit einer Sauna von Wellnessbay. Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/saunen/\" title=\"Saunen\">Saunen</a> in verschiedenen Größen und Ausführungen, damit Sie die perfekte Sauna für Ihr Zuhause finden. Unsere Saunen sind aus hochwertigen Materialien gefertigt und bieten eine optimale Wärme und Entspannung für ein unvergessliches Saunaerlebnis."
+                    },
+                    {
+                        "title": "Massivholzsaunen & Elementsaunen",
+                        "text": "Erleben Sie das besondere Saunaerlebnis mit einer Massivholzsauna oder Elementsauna von Wellnessbay. Unsere Saunen sind aus hochwertigen Massivhölzern gefertigt und bieten eine warme und gemütliche Atmosphäre für ein unvergessliches Saunaerlebnis. Entdecken Sie jetzt unser breites Sortiment an Massivholzsaunen und Elementsaunen und finden Sie die perfekte Sauna für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Whirlpools",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/whirlpools/\" title=\"Whirlpools\">Whirlpools</a> finden Sie hochwertige und luxuriöse Badewannen mit Whirlpool-Funktion. Verwöhnen Sie sich nach einem anstrengenden Tag mit einer Massage durch die integrierten Wasserdüsen. Unsere Whirlpools sind in verschiedenen Größen und Ausführungen erhältlich, um Ihren Anforderungen gerecht zu werden. Stöbern Sie durch unsere Produkte und finden Sie den perfekten Whirlpool für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Saunaöfen & Zubehör",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/saunaoefen-zubehoer/\" title=\"Saunaöfen & Zubehör\">Saunaöfen & Zubehör</a> finden Sie alles, was Sie für Ihre Sauna benötigen. Wir bieten Ihnen eine große Auswahl an Saunaöfen in verschiedenen Größen und Leistungen, um Ihre Sauna auf die perfekte Temperatur zu bringen. Darüber hinaus haben wir auch eine Vielzahl an Zubehör wie Saunasteine, Thermometer und Hygrometer, um Ihre Saunaerfahrung zu verbessern. Schauen Sie sich um und finden Sie alles, was Sie für Ihre Sauna benötigen."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Sauna & Wellness Shop: Riesige Auswahl in top Qualität!",
+            "metaDescription": "In unserem Shop finden Sie alles zum Thema Entspannung: Saunen | Saunaöfen | Whirlpools | Wellnesszubehör | Per Mausklick zu Ihnen nach Hause!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Sauna & Wellness Hersteller",
+            "metaDescription": "Entdecken Sie unser vielfältiges Angebot ausgewählter Markenanbieter wie Duravit, Emotion, FinnTherm, Sanotechnik, Ottofond und mehr!  ",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Sauna & Wellness Shop: Riesige Auswahl in top Qualität!",
-      "metaDescription": "In unserem Shop finden Sie alles zum Thema Entspannung: Saunen | Saunaöfen | Whirlpools | Wellnesszubehör | Per Mausklick zu Ihnen nach Hause!",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Sauna & Wellness Hersteller",
-      "metaDescription": "Entdecken Sie unser vielfältiges Angebot ausgewählter Markenanbieter wie Duravit, Emotion, FinnTherm, Sanotechnik, Ottofond und mehr!  ",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "Sauna & Wellness: $PRODUKT",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Immer eine gute Wahl! Ganz einfach und bequem online bestellen in $KATEGORIE. Bei uns finden Sie, wonach Sie gesucht haben.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "8307878",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "Sauna & Wellness: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Immer eine gute Wahl! Ganz einfach und bequem online bestellen in $KATEGORIE. Bei uns finden Sie, wonach Sie gesucht haben.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "FinnTherm Fasssauna Tom Premium Montiert ohne Ofen",
-              "text": "<p class=\"justify\">Entspannen Sie sich in Ihrem eigenen Garten mit der FinnTherm Fasssauna Tom Premium Montiert ohne Ofen. Diese kompakte Sauna ist ideal für kleinere Gärten und bietet Platz für bis zu vier Personen. Die einzigartige Fassform macht die Sauna nicht nur optisch ansprechend, sondern bietet auch hervorragende Funktionen.</p><p class=\"justify\">Dank der gewölbten Fassform wird die Wärme und Luftfeuchtigkeit schnell und gleichmäßig im Saunaraum verteilt. So erhitzt sich die Sauna schneller und das Raumklima bleibt konstant. Die aus nordischem Fichtenholz gefertigte Holzsauna speichert Wärme perfekt und bietet gute Isoliereigenschaften. Die stabilen Blockbohlen werden von Spannbändern in Form gehalten, die bei Bedarf nachgespannt werden können.</p><p class=\"justify\">Auf zwei breiten Erlenholz-Saunaliegen können Sie die angenehme Wärme genießen, während die bronzierte Panorama-Glastür aus 8 mm Sicherheitsglas den Blick in den Garten ermöglicht. Ein Lüftungsgitter sorgt für eine optimale Wärme- und Luftzirkulation. Das mitgelieferte Dach ist mit sechseckigen Schindeln in Schwarz abgedeckt.</p><p class=\"justify\">Das Holz der FinnTherm Fasssauna wurde durch eine spezielle Hitzeverfahren optimiert, um es langlebig und unempfindlich gegen Pilz- und Fäulnisbefall zu machen. Um das Holz zusätzlich vor UV-Strahlung und Schimmel zu schützen, empfiehlt es sich, eine Holzschutzlasur aufzutragen. Die Gesamtlänge der Sauna beträgt 240 cm (inklusive Dachüberstand) und der Außendurchmesser etwa 219,5 cm.</p><p class=\"justify\">Die Fasssauna wird montiert ohne Ofen geliefert. Bodenrost und Bodenbretter sind nicht im Lieferumfang enthalten. Die Lieferung erfolgt bis Bordsteinkante und ein Weitertransport oder die Anlieferung mit einem Kran ist nicht möglich. Paketmaße sind ca. 245 x 70 x 170 cm und das Gewicht beträgt etwa 750 kg. Genießen Sie entspannende Stunden und Wellness-Erlebnisse in Ihrem eigenen Garten mit der FinnTherm Fasssauna Tom Premium Montiert ohne Ofen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1753730",
-        "seo": {
-          "texts": [
-            {
-              "title": "Emotion Premium Whirlpool Estreia 190 cm x 140 cm Links Weiß",
-              "text": "<p class=\"justify\">Tauchen Sie ein in die Welt der Entspannung und Wellness mit dem Emotion Premium Whirlpool Estreia, der sich ideal für romantische Stunden zu zweit oder als Familien-Oase eignet. Mit einer Größe von 190 cm x 140 cm und zwei parallel angeordneten Liegepositionen bietet dieser Whirlpool ein luxuriöses Badeerlebnis, bei dem technische Finessen und ausgewogene Proportionen im Vordergrund stehen. Zwei im Lieferumfang enthaltene Kopfstützen sorgen für zusätzlichen Komfort.</p><p class=\"justify\">Das Wellness-Erlebnis wird durch die acht Seitenwasserdüsen und die jeweils zehn Nanorückendüsen Hydrojets mit einem verstärkten Massagestrahl vervollständigt. Die seitlichen Hydrojet-Düsen verfügen über einen Gelenkball, der es Ihnen ermöglicht, die Richtung des Massagestrahls individuell einzustellen. Darüber hinaus sorgen acht im Wannenboden integrierte Luftdüsen Aerojets für ein angenehmes Sprudelbad.</p><p class=\"justify\">Die Whirlpoolwanne ist mit einer stimmungsvollen Unterwasserbeleuchtung ausgestattet, die dank 12 V LEDs automatisch zwischen Rot, Grün und Blau wechselt und somit eine beruhigende Atmosphäre schafft. Die praktische Touch-Steuerung ermöglicht Ihnen eine intuitive Bedienung der verschiedenen Aggregate sowie der Wasserpumpe und Luftpumpe. Die LX-Heizung sorgt dafür, dass die Wassertemperatur von etwa 30°C - 45°C konstant gehalten wird.</p><p class=\"justify\">Zum Lieferumfang gehören ein vielfältiges Armaturen-Set, das aus einer verchromten 3er-Messingarmatur, Drehknopf für Kalt- und Warmwasser, Umschalter zwischen Wasserfall und Handbrause sowie einer Handbrause inklusive Schlauch und Brausedurchführung besteht. Die Montage des Whirlpools erfolgt schnell und einfach, während der bereits integrierte Ab- und Überlaufschutz mit Geruchsstopper auch nach dem Bad für ein angenehmes Raumklima sorgt.</p><p class=\"justify\">Entscheiden Sie sich für den Emotion Premium Whirlpool Estreia und genießen Sie entspannende und wohltuende Bäder in Ihrem eigenen Badezimmer. Dieses hochwertige Produkt wird jedem Anspruch an Komfort, Design und Funktionalität gerecht und verwandelt Ihr Badezimmer in eine persönliche Wellnessoase.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1753508",
-        "seo": {
-          "texts": [
-            {
-              "title": "Emotion Premium Whirlpool Luzy 170 cm x 75 cm Weiß",
-              "text": "<p class=\"justify\">Das Emotion Premium Whirlpool Luzy 170 cm x 75 cm in weiß ist ein luxuriöses Produkt von der Marke Emotion, das sich perfekt für entspannende und romantische Momente eignet. Mit seinen gegenüberliegenden Liegepositionen und den zwei mitgelieferten Kopfstützen bietet der Whirlpool bequemen Platz für zwei Personen, sodass Sie sowohl alleine als auch zu zweit eine wohltuende Pause genießen können.</p><p class=\"justify\">Ausgestattet mit sechs Seitenwasserdüsen und 20 Nanorückenwasserdüsen sorgt das Luzy Whirlpool-System für ein wahres Spa-Erlebnis in Ihrem heimischen Badezimmer. Die verstellbaren Gelenkbälle der Hydrojet-Seitendüsen ermöglichen es Ihnen, die Richtung der Massagestrahlen individuell einzustellen. Zusätzlich sorgen acht Luftdüsen im Wannenboden für ein angenehmes Prickeln im Wasser. Für ein besonderes Ambiente sorgt dabei die integrierte Unterwasserbeleuchtung, bei der 12V LEDs automatisch zwischen den Farben Rot, Grün und Blau wechseln und so eine beruhigende Atmosphäre schaffen.</p><p class=\"justify\">Der Emotion Premium Whirlpool Luzy lässt sich einfach und intuitiv über die praktische Touch-Steuerung bedienen, mit der Sie beispielsweise die Wasserpumpe, Luftpumpe oder Beleuchtung regulieren können. Die LX-Heizung garantiert dabei eine konstante Wassertemperatur zwischen 30°C-45°C.</p><p class=\"justify\">Das mitgelieferte Armaturen-Set besteht aus einer verchromten 3er-Messingarmatur, einem Drehknopf für Kalt- und Warmwasser, einem Umschalter zwischen Wasserfall und Handbrause sowie einer Handbrause inklusive Schlauch und Durchführung. Der Whirlpool wird anschlussfertig geliefert und ist leicht im Badezimmer zu montieren. Ein Ab- und Überlaufschutz mit Geruchsstopper sorgt für zusätzliche Sicherheit und verhindert unangenehme Gerüche nach dem Baden.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "Sauna & Wellness: $KATEGORIE",
-    "defaultMetaDescription": "Hochwertige Produkte für Sauna und Wellness. Bestellen Sie $KATEGORIE zu günstigen Preisen direkt nach Hause. Schnelle Lieferung.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "8307878",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "FinnTherm Fasssauna Tom Premium Montiert ohne Ofen",
+                            "text": "<p class=\"justify\">Entspannen Sie sich in Ihrem eigenen Garten mit der FinnTherm Fasssauna Tom Premium Montiert ohne Ofen. Diese kompakte Sauna ist ideal für kleinere Gärten und bietet Platz für bis zu vier Personen. Die einzigartige Fassform macht die Sauna nicht nur optisch ansprechend, sondern bietet auch hervorragende Funktionen.</p><p class=\"justify\">Dank der gewölbten Fassform wird die Wärme und Luftfeuchtigkeit schnell und gleichmäßig im Saunaraum verteilt. So erhitzt sich die Sauna schneller und das Raumklima bleibt konstant. Die aus nordischem Fichtenholz gefertigte Holzsauna speichert Wärme perfekt und bietet gute Isoliereigenschaften. Die stabilen Blockbohlen werden von Spannbändern in Form gehalten, die bei Bedarf nachgespannt werden können.</p><p class=\"justify\">Auf zwei breiten Erlenholz-Saunaliegen können Sie die angenehme Wärme genießen, während die bronzierte Panorama-Glastür aus 8 mm Sicherheitsglas den Blick in den Garten ermöglicht. Ein Lüftungsgitter sorgt für eine optimale Wärme- und Luftzirkulation. Das mitgelieferte Dach ist mit sechseckigen Schindeln in Schwarz abgedeckt.</p><p class=\"justify\">Das Holz der FinnTherm Fasssauna wurde durch eine spezielle Hitzeverfahren optimiert, um es langlebig und unempfindlich gegen Pilz- und Fäulnisbefall zu machen. Um das Holz zusätzlich vor UV-Strahlung und Schimmel zu schützen, empfiehlt es sich, eine Holzschutzlasur aufzutragen. Die Gesamtlänge der Sauna beträgt 240 cm (inklusive Dachüberstand) und der Außendurchmesser etwa 219,5 cm.</p><p class=\"justify\">Die Fasssauna wird montiert ohne Ofen geliefert. Bodenrost und Bodenbretter sind nicht im Lieferumfang enthalten. Die Lieferung erfolgt bis Bordsteinkante und ein Weitertransport oder die Anlieferung mit einem Kran ist nicht möglich. Paketmaße sind ca. 245 x 70 x 170 cm und das Gewicht beträgt etwa 750 kg. Genießen Sie entspannende Stunden und Wellness-Erlebnisse in Ihrem eigenen Garten mit der FinnTherm Fasssauna Tom Premium Montiert ohne Ofen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1753730",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Emotion Premium Whirlpool Estreia 190 cm x 140 cm Links Weiß",
+                            "text": "<p class=\"justify\">Tauchen Sie ein in die Welt der Entspannung und Wellness mit dem Emotion Premium Whirlpool Estreia, der sich ideal für romantische Stunden zu zweit oder als Familien-Oase eignet. Mit einer Größe von 190 cm x 140 cm und zwei parallel angeordneten Liegepositionen bietet dieser Whirlpool ein luxuriöses Badeerlebnis, bei dem technische Finessen und ausgewogene Proportionen im Vordergrund stehen. Zwei im Lieferumfang enthaltene Kopfstützen sorgen für zusätzlichen Komfort.</p><p class=\"justify\">Das Wellness-Erlebnis wird durch die acht Seitenwasserdüsen und die jeweils zehn Nanorückendüsen Hydrojets mit einem verstärkten Massagestrahl vervollständigt. Die seitlichen Hydrojet-Düsen verfügen über einen Gelenkball, der es Ihnen ermöglicht, die Richtung des Massagestrahls individuell einzustellen. Darüber hinaus sorgen acht im Wannenboden integrierte Luftdüsen Aerojets für ein angenehmes Sprudelbad.</p><p class=\"justify\">Die Whirlpoolwanne ist mit einer stimmungsvollen Unterwasserbeleuchtung ausgestattet, die dank 12 V LEDs automatisch zwischen Rot, Grün und Blau wechselt und somit eine beruhigende Atmosphäre schafft. Die praktische Touch-Steuerung ermöglicht Ihnen eine intuitive Bedienung der verschiedenen Aggregate sowie der Wasserpumpe und Luftpumpe. Die LX-Heizung sorgt dafür, dass die Wassertemperatur von etwa 30°C - 45°C konstant gehalten wird.</p><p class=\"justify\">Zum Lieferumfang gehören ein vielfältiges Armaturen-Set, das aus einer verchromten 3er-Messingarmatur, Drehknopf für Kalt- und Warmwasser, Umschalter zwischen Wasserfall und Handbrause sowie einer Handbrause inklusive Schlauch und Brausedurchführung besteht. Die Montage des Whirlpools erfolgt schnell und einfach, während der bereits integrierte Ab- und Überlaufschutz mit Geruchsstopper auch nach dem Bad für ein angenehmes Raumklima sorgt.</p><p class=\"justify\">Entscheiden Sie sich für den Emotion Premium Whirlpool Estreia und genießen Sie entspannende und wohltuende Bäder in Ihrem eigenen Badezimmer. Dieses hochwertige Produkt wird jedem Anspruch an Komfort, Design und Funktionalität gerecht und verwandelt Ihr Badezimmer in eine persönliche Wellnessoase.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1753508",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Emotion Premium Whirlpool Luzy 170 cm x 75 cm Weiß",
+                            "text": "<p class=\"justify\">Das Emotion Premium Whirlpool Luzy 170 cm x 75 cm in weiß ist ein luxuriöses Produkt von der Marke Emotion, das sich perfekt für entspannende und romantische Momente eignet. Mit seinen gegenüberliegenden Liegepositionen und den zwei mitgelieferten Kopfstützen bietet der Whirlpool bequemen Platz für zwei Personen, sodass Sie sowohl alleine als auch zu zweit eine wohltuende Pause genießen können.</p><p class=\"justify\">Ausgestattet mit sechs Seitenwasserdüsen und 20 Nanorückenwasserdüsen sorgt das Luzy Whirlpool-System für ein wahres Spa-Erlebnis in Ihrem heimischen Badezimmer. Die verstellbaren Gelenkbälle der Hydrojet-Seitendüsen ermöglichen es Ihnen, die Richtung der Massagestrahlen individuell einzustellen. Zusätzlich sorgen acht Luftdüsen im Wannenboden für ein angenehmes Prickeln im Wasser. Für ein besonderes Ambiente sorgt dabei die integrierte Unterwasserbeleuchtung, bei der 12V LEDs automatisch zwischen den Farben Rot, Grün und Blau wechseln und so eine beruhigende Atmosphäre schaffen.</p><p class=\"justify\">Der Emotion Premium Whirlpool Luzy lässt sich einfach und intuitiv über die praktische Touch-Steuerung bedienen, mit der Sie beispielsweise die Wasserpumpe, Luftpumpe oder Beleuchtung regulieren können. Die LX-Heizung garantiert dabei eine konstante Wassertemperatur zwischen 30°C-45°C.</p><p class=\"justify\">Das mitgelieferte Armaturen-Set besteht aus einer verchromten 3er-Messingarmatur, einem Drehknopf für Kalt- und Warmwasser, einem Umschalter zwischen Wasserfall und Handbrause sowie einer Handbrause inklusive Schlauch und Durchführung. Der Whirlpool wird anschlussfertig geliefert und ist leicht im Badezimmer zu montieren. Ein Ab- und Überlaufschutz mit Geruchsstopper sorgt für zusätzliche Sicherheit und verhindert unangenehme Gerüche nach dem Baden.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "Sauna & Wellness: $KATEGORIE",
+        "defaultMetaDescription": "Hochwertige Produkte für Sauna und Wellness. Bestellen Sie $KATEGORIE zu günstigen Preisen direkt nach Hause. Schnelle Lieferung.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Sauna & Wellness von $HERSTELLER: bei uns erhältlich",
+        "defaultMetaDescription": "Sauna & Wellness von $HERSTELLER – für Entspannung und Gesundheit. Wir bieten Ihnen erstklassige Produkte in unserem Shop.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Sauna & Wellness",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Sauna & Wellness Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Sauna & Wellness Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Sauna & Wellness von $HERSTELLER: bei uns erhältlich",
-    "defaultMetaDescription": "Sauna & Wellness von $HERSTELLER – für Entspannung und Gesundheit. Wir bieten Ihnen erstklassige Produkte in unserem Shop.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Sauna & Wellness",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Sauna & Wellness Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Sauna & Wellness Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
